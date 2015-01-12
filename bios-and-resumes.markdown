@@ -84,3 +84,7 @@
 ## Kamilah Jenkins
 - [Bio](https://gist.github.com/kamilahjae/b666fdd85e10f9ecce66)
 - [Resume](https://gist.github.com/kamilahjae/bba6c21bb10bc5e1a3e2)
+
+## Kathy Lepe
+- [Bio](https://gist.github.com/kil432/090d42ce3d205414ee3d)
+- [Resume](https://gist.github.com/kil432/2b188b1177e7a1b6f581)
